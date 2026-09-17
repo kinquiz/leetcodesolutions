@@ -26,4 +26,5 @@ As algorithm goes trough the array, it calculates which number it needs to reach
 Then it checks if it has already seen the number. If yes, two numbers are found and can be return their indicates.
 Unordered map is here because checking if numbe exists in it is O(1) on average.
 In main opinion main part of the solution to achive O(n) is the use of the hash map, beacuse algorithm does not need to recheck same elements again.
- */
+https://leetcode.com/problems/two-sum/submissions/2144829003
+*/
